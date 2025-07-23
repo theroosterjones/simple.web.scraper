@@ -1,4 +1,4 @@
-# WebScraper
+# simple.web.scraper
 
 This is a simple Python web scraping tool that allows you to scrape text from any web page using a CSS selector.
 
